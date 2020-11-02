@@ -1,0 +1,43 @@
+h1{
+    margin:0 auto;
+    margin-bottom:30px;
+    width:500px;
+    background-color:#e0e0e0;
+    border-left:5px solid red;
+    padding-left:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-size:20px
+    
+}
+
+form{
+    margin:0 auto;
+    width:500px;
+    background-color:#f8f8f8;
+    border:5px solid #f0f0f0;
+    border-radius:10px;
+    padding:10px
+}
+
+div{
+    padding-bottom:25px;
+}
+
+.mail,.name,textarea,.dropdown{
+    
+    border:3px solid #f0f0f0;
+    color:#999
+}
+
+.submit{
+    
+    border:2px solid lightgray;
+    border-bottom:3px solid gray;
+    background-color:lightgray;
+    color:white;
+    border-radius:3px;
+}
+
+
+
